@@ -27,7 +27,7 @@ Send addresses once:<br>
 <img src="https://github.com/AlgoCryptoDapp/Bee-Sender/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
 Site1:
-https://song2man.github.io/Bee-Sender/
+[https://song2man.github.io/Bee-Sender/](https://github.com/song2man/Bee-Sender/)
 
 # Need Earn cryptocurrency?
 Open js/config.js<br>
